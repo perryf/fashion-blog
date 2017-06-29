@@ -8,6 +8,17 @@ body {
   font-size: 40px;
   color: #D22;
   text-decoration: none;
+  text-align: left;
+}
+
+.center {
+  text-align: center;
+}
+
+nav {
+  display: inline-block;
+  list-style-type: none;
+  margin: 0 auto;
 }
 
 header nav a {
